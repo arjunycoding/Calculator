@@ -1,0 +1,17 @@
+button{
+    background-color: lightgray;
+    border: none;
+    padding:5px;
+    width:100px;
+    margin-top: 10px;
+}
+#num0{
+    margin-left: 105px;
+}
+.op{
+    background-color: lightblue;
+    /* margin-left:315px; */
+}
+.blank{
+    background-color: white;
+}
