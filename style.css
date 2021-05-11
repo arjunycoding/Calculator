@@ -1,17 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 button{
     background-color: lightgray;
     border: none;
     padding:5px;
     width:100px;
     margin-top: 10px;
-}
-#num0{
-    margin-left: 105px;
+    border-radius: 5px;
+    width:50px;
 }
 .op{
-    background-color: lightblue;
+    background-color: rgb(103, 126, 255);
     /* margin-left:315px; */
 }
 .blank{
     background-color: white;
+}
+#calculate{
+    background-color: rgb(255, 255, 104);
+}
+#dashboard{
+    border: 1px solid rgb(211, 211, 211);
+    width: 190px;
+    padding-left:10px;
+    border-radius: 10px;
+    margin-bottom: 1px;
+    height:15px;
+    padding-bottom: 10px;
+    padding-top: 5px;
 }
