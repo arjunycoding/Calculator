@@ -56,7 +56,7 @@ function sub(){
     dashboard.innerHTML += " - ";
 }
 function mul(){
-    dashboard.innerHTML += " * ";
+    dashboard.innerHTML += "<sub> * </sub>";
 }
 function div(){
     dashboard.innerHTML += " / ";
