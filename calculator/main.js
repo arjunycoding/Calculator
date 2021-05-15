@@ -22,6 +22,7 @@ let clear = document.getElementById("clear");
 function add1(){
     dashboard.innerHTML += "1";
 }
+
 function add2(){
     dashboard.innerHTML += "2";
 }
